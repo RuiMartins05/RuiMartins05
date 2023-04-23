@@ -1,4 +1,4 @@
-<h3 align="center">Hi I'm have been a computer science student for the past 3 years in Lisbon</h3>
+<h3 align="center">Hi, I'm a computer science student trying to learn more and more each day and I'm really excited about the new technologies and new ways of doing things that I'm learning</h3>
 
 
 - 🌱 I’m currently learning a lot of web technologies such as Angular, Node.JS and Express. I'm also learning the whole struture of a business application from presentation patterns to business logic and data access. Finally, I'm taking mt first steps in cyber-security.
