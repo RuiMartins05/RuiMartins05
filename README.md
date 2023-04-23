@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rui Martins</h1>
 <h3 align="center">a computer science student trying to learn more and more each day and I'm really excited about the new technologies and new ways of doing things that I'm learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruimartins05&label=Profile%20views&color=0e75b6&style=flat" alt="ruimartins05" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruimartins05" alt="ruimartins05" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [WineMarket](https://github.com/RuiMartins05/WineMarket)
 
 - 🌱 I’m currently learning **a lot of web technologies such as Angular, Node.JS and Express. I'm also learning the whole struture of a business application from presentation patterns to business logic and data access. Finally, I'm taking mt first steps in cyber-security.**
