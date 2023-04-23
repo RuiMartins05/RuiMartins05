@@ -1,7 +1,7 @@
 <h3 align="center">Hi I'm have been a computer science student for the past 3 years in Lisbon</h3>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning a lot of web technologies such as Angular, Node.JS and Express. I'm also learning the whole struture of a business application from presentation patterns to business logic and data access. Finally, I'm taking mt first steps in cyber-security.
 - 📫 How to reach me **ruipedro200205@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
