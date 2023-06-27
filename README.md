@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rui Martins</h1>
 <h3 align="center">a computer science student trying to learn more and more each day and I'm really excited about the new technologies and new ways of doing things that I'm learning</h3>
 
-- 🔭 I’m currently working on [WineMarket](https://github.com/RuiMartins05/WineMarket)
+- 🔭 I’m currently learning Solidity, HardHat and Ethers.js
 
-- 🌱 I’m currently learning **a lot of web technologies such as Angular, Node.JS and Express. I'm also learning the whole struture of a business application from presentation patterns to business logic and data access. Finally, I'm taking mt first steps in cyber-security.**
+- 🌱 I’m currently learning **a lot of web technologies such as Angular, Node.JS and Express. I'm also learning the whole structure of a business application from presentation patterns to business logic and data access. Finally, I'm taking my first steps in cyber security.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RuiMartins05?tab=repositories](https://github.com/RuiMartins05?tab=repositories)
 
